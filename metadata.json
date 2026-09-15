@@ -1,0 +1,6 @@
+{
+  "name": "Nifty Trading Insights",
+  "description": "Landing page for Equity Dynamo Telegram Channel by Latesh Narula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
